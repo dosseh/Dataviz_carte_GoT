@@ -23,8 +23,7 @@ La visualisation doit indiquer visuellement pour chaque région les deux valeurs
 
 La visualisation doit se mettre-à-jour avec des valeurs aléatoires lorsqu'on appuie sur une touche, et la mise-à-jour doit être progressive. Lorsqu'on passe la souris sur un point de donnée, des informations plus complètes (nombre de fans, maison) doivent apparaître.
 
-Le cours se trouve ici : https://github.com/Ant01n3/dataviz.wiki.git
-
+Le cours se trouve ici : https://github.com/Ant01n3/dataviz/wiki/Cours2
 ####  Aperçue du rendu.
  
 ![](data/goT.png)
